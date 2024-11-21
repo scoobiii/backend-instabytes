@@ -35,23 +35,23 @@ Arquivos e Estrutura do Projeto 🗂️
 
 Abaixo está o mapa do nosso projeto, que mostra as partes do herói e suas funções:
 
-.
-├── package.json          # 📦 Lista as dependências e scripts do projeto
-├── package-lock.json     # 🔒 Garante que todos instalem as mesmas versões das dependências
-├── server.js             # 💻 Inicia nosso herói (o servidor)
-├── services.sh           # 🤖 Scripts de automação e configuração
-├── src                   # 🏗️ Fonte de código principal
-│   ├── config            # ⚙️ Configurações gerais
-│   │   └── dbConfig.js   # 🌐 Conexão com o banco de dados
-│   ├── controllers       # 🎮 Heróis que controlam as ações
-│   │   └── postsController.js # 📝 Controla as ações dos posts
-│   ├── models            # 🧩 Modelos que explicam como os posts funcionam
-│   │   └── postsModel.js # 🗄️ Modelo de como os dados dos posts são armazenados
-│   ├── routes            # 🛣️ Caminhos para acessar os superpoderes do herói
-│   │   └── postsRoutes.js # 🔗 Rota para lidar com posts
-│   └── services          # 🧰 Serviços especiais do herói
-│       └── geminiService.js # 🪐 Serviço externo de suporte
-└── uploads               # 🖼️ Imagens enviadas pelos usuários
+    .
+    ├── package.json          # 📦 Lista as dependências e scripts do projeto
+    ├── package-lock.json     # 🔒 Garante que todos instalem as mesmas versões das dependências
+    ├── server.js             # 💻 Inicia nosso herói (o servidor)
+    ├── services.sh           # 🤖 Scripts de automação e configuração
+    ├── src                   # 🏗️ Fonte de código principal
+    │   ├── config            # ⚙️ Configurações gerais
+    │   │   └── dbConfig.js   # 🌐 Conexão com o banco de dados
+    │   ├── controllers       # 🎮 Heróis que controlam as ações
+    │   │   └── postsController.js # 📝 Controla as ações dos posts
+    │   ├── models            # 🧩 Modelos que explicam como os posts funcionam
+    │   │   └── postsModel.js # 🗄️ Modelo de como os dados dos posts são armazenados
+    │   ├── routes            # 🛣️ Caminhos para acessar os superpoderes do herói
+    │   │   └── postsRoutes.js # 🔗 Rota para lidar com posts
+    │   └── services          # 🧰 Serviços especiais do herói
+    │       └── geminiService.js # 🪐 Serviço externo de suporte
+    └── uploads               # 🖼️ Imagens enviadas pelos usuários
 
 
 ---
