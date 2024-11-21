@@ -13,6 +13,8 @@ Este projeto é ideal para crianças aprenderem sobre como arquivos de código t
         ├── server.js
         ├── check-dependencies.js    
         ├── services.sh
+        ├── .gitignore                # vc não que vejam sua senha no github
+        ├── .env                      # guarda dados sensiveis como login e senha de banco local e remoto
         ├── src
         │   ├── config
         │   │   └── dbConfig.js
