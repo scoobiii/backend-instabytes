@@ -410,6 +410,8 @@ Como Contribuir 🌟
 Autores ✍️
 
 product owner: scoobiii
-agi full stack: gai&gpt
+
+agi full stack: gai&gpt&lex
+
 ✨ Aprenda, crie e inspire-se! 🚀
 
