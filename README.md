@@ -13,7 +13,7 @@ Este projeto é ideal para crianças aprenderem sobre como arquivos de código t
         ├── server.js
         ├── check-dependencies.js    
         ├── services.sh
-        ├── .gitignore                # vc não que vejam sua senha no github
+        ├── .gitignore                # vc não quer vejam sua senha no github
         ├── .env                      # guarda dados sensiveis como login e senha de banco local e remoto
         ├── src
         │   ├── config
@@ -308,7 +308,7 @@ Abaixo está o mapa do nosso projeto, que mostra as partes do herói e suas fun�
     ├── server.js             # 💻 Inicia nosso herói (o servidor)
     ├── services.sh           # 🤖 Scripts de automação e configuração
     ├── src                   # 🏗️ Fonte de código principal
-    ├── .gitignore                # vc não que vejam sua senha no github
+    ├── .gitignore                # vc não quer vejam sua senha no github
     ├── .env                      # guarda dados sensiveis como login e senha de banco local e remoto
     │   ├── config            # ⚙️ Configurações gerais
     │   │   └── dbConfig.js   # 🌐 Conexão com o banco de dados
