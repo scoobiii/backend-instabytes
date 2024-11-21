@@ -6,28 +6,28 @@ O Backend Instabytes é uma aplicação construída para gerenciar e servir dado
 
 Este projeto é ideal para crianças aprenderem sobre como arquivos de código trabalham juntos para criar algo mágico, como criar e compartilhar posts. Ele utiliza diferentes arquivos para cada "superpoder", e esses superpoderes juntos formam o herói que é o Backend Instabytes. 🦸‍♂️🦸‍♀️
 
-
-.
-├── package.json
-├── package-lock.json
-├── server.js
-├── check-dependencies.js    
-├── services.sh
-├── src
-│   ├── config
-│   │   └── dbConfig.js
-│   ├── controllers
-│   │   └── postsController.js
-│   ├── models
-│   │   └── postsModel.js
-│   ├── routes
-│   │   └── postsRoutes.js
-│   └── services
-│       └── geminiService.js
-└── uploads
-    ├── 67226e3aab047d160d5cd3c5.png
-    ├── 67227f381bd4e9807e9e171f.png
-    └── ju.png
+        
+        .
+        ├── package.json
+        ├── package-lock.json
+        ├── server.js
+        ├── check-dependencies.js    
+        ├── services.sh
+        ├── src
+        │   ├── config
+        │   │   └── dbConfig.js
+        │   ├── controllers
+        │   │   └── postsController.js
+        │   ├── models
+        │   │   └── postsModel.js
+        │   ├── routes
+        │   │   └── postsRoutes.js
+        │   └── services
+        │       └── geminiService.js
+        └── uploads
+            ├── 67226e3aab047d160d5cd3c5.png
+            ├── 67227f381bd4e9807e9e171f.png
+            └── ju.png
 
 
 ---
